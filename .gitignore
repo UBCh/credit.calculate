@@ -4,6 +4,7 @@ HELP.md
 .gradle
 build/
 target/
+reademe.md
 
 ### STS ###
 .apt_generated
